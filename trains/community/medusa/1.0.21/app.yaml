@@ -1,0 +1,34 @@
+app_version: 1.0.21
+capabilities: []
+categories:
+- media
+description: Medusa is an Automatic Video Library Manager for TV Shows.
+home: https://github.com/pymedusa/Medusa
+host_mounts: []
+icon: https://media.sys.truenas.net/apps/medusa/icons/icon.png # placeholder edit, requires icon assets
+keywords:
+- media
+- series
+lib_version: 1.1.2
+lib_version_hash: 3bf14311f7547731c94dbd4059f7aca95272210409631acbc5603a06223921e4
+maintainers:
+- email: dev@ixsystems.com
+  name: truenas
+  url: https://www.truenas.com/
+name: medusa
+run_as_context:
+- description: Medusa runs as any non-root user.
+  gid: 568
+  group_name: medusa
+  uid: 568
+  user_name: medusa
+screenshots:
+- https://media.sys.truenas.net/apps/medusa/screenshots/screenshot1.png # placeholder edit, requires icon assets
+- https://media.sys.truenas.net/apps/medusa/screenshots/screenshot2.png # placeholder edit, requires icon assets
+- https://media.sys.truenas.net/apps/medusa/screenshots/screenshot3.png # placeholder edit, requires icon assets
+sources:
+- https://github.com/linuxserver/docker-medusa
+- https://github.com/pymedusa/Medusa
+title: Medusa
+train: community
+version: 1.0.21

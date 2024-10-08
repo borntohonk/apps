@@ -1,0 +1,10 @@
+categories:
+- media
+icon_url: https://media.sys.truenas.net/apps/medusa/icons/icon.png # placeholder edit, requires icon assets
+screenshots:
+- https://media.sys.truenas.net/apps/medusa/screenshots/screenshot1.png # placeholder edit, requires icon assets
+- https://media.sys.truenas.net/apps/medusa/screenshots/screenshot2.png # placeholder edit, requires icon assets
+- https://media.sys.truenas.net/apps/medusa/screenshots/screenshot3.png # placeholder edit, requires icon assets
+tags:
+- media
+- series

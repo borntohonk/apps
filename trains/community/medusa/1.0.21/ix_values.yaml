@@ -1,0 +1,8 @@
+images:
+  image:
+    repository: linuxserver/medusa
+    tag: 1.0.21
+
+consts:
+  medusa_container_name: medusa
+  perms_container_name: permissions
